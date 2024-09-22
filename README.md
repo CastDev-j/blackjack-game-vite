@@ -12,3 +12,4 @@ Passos para rodar o projeto:
 1. Correr el build ```npm run build```
 2. Correr el servidor de producción ```npm run serve```
 3. Acesse o projeto em ```http://localhost:5000/```
+ 
